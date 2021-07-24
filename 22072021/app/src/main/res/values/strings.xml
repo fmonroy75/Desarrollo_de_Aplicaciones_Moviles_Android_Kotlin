@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="rb1">Sumar</string>
+    <string name="rb2">Restar</string>
+    <string name="rb3">Multiplicar</string>
+    <string name="rb4">Dividir</string>
+    <string name="calcular">Calcular</string>
+    <string name="config">Configuracion</string>
+</resources>

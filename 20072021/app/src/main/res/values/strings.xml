@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="boton">Probando valores</string>
+    <string name="calcular">Calcular</string>
+    <string name="ednum1">Ingrese un numero</string>
+    <string name="ednum2">Ingrese un numero</string>
+</resources>
