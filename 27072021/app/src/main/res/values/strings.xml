@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hilos</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="pausar">Pausar</string>
+    <string name="continuar">Continuar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="detener">Detener</string>
+
+</resources>
